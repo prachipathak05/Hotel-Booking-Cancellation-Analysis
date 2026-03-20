@@ -14,8 +14,7 @@ This project focuses on analyzing hotel booking data to understand the factors t
 
 ## 🛠️ Tools & Technologies
 - Python  
-- Pandas  
-- NumPy  
+- Pandas    
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook  
